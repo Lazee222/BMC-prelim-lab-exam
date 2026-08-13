@@ -20,7 +20,7 @@ void main() {
   double totalAve = ((quiz + quiz2 + quiz3)/3);
 
   print("Name: $name");
-  print("Name: $age");
+  print("Age: $age");
   print("Average: $totalAve");
   if (totalAve >=75) {
     print("Status: Passed");
